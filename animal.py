@@ -1,0 +1,2 @@
+def halt():
+    print("stop")
